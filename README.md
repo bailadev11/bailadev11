@@ -1,12 +1,12 @@
 
 <div align="right"> 
-  <a href="https://bailador-project.netlify.app/" > 
+  <a href="https://it-bailador.com" > 
     <img src="/assets/images/0.png" />
   </a> 
 </div>
 
 # ***Full-Stack Developer*** 👋
-- Visit my portfolio [Bailador Project](https://bailador-project.netlify.app/)
+- Visit my portfolio [Bailador Project](https:it-bailador.com)
 
 ## :yum: About me
 Born in Argentina, La Plata - Bs.As. I studied computer science at UNLP, but now I am the owner of studying without limitations. Lover of knowledge and learning. I am a family man.
