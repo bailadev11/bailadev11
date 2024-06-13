@@ -1,7 +1,7 @@
 
 <div align="right"> 
   <a href="https://it-bailador.com" > 
-    <img src="/assets/images/0.png" />
+    <img width='150''src="/assets/images/0.png" />
   </a> 
 </div>
 
